@@ -1,0 +1,17 @@
+{
+  "name": "webgraphics",
+  "version": "0.0.1",
+  "description": "A collection of interesting visuals for the web",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ukalus",
+  "license": "MIT",
+  "dependencies": {
+    "lil-gui": "^0.19.2",
+    "three": "^0.164.1",
+    "vite": "^5.2.11"
+  }
+}
